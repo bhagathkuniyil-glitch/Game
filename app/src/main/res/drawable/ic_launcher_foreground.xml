@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center Crest Shield -->
+    <path
+        android:fillColor="#FFB703"
+        android:pathData="M54,26 L74,38 L74,62 L54,78 L34,62 L34,38 Z" />
+    <path
+        android:fillColor="#FB8500"
+        android:pathData="M54,30 L70,40 L70,60 L54,73 L38,60 L38,40 Z" />
+    <!-- Crossed Blades / Combat Energy -->
+    <path
+        android:fillColor="#E0E7FF"
+        android:pathData="M51,32 L57,32 L57,68 L51,68 Z" />
+    <!-- Power Star / Core Diamond -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,42 L60,51 L54,60 L48,51 Z" />
+    <!-- Winged Accents -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M34,44 L24,36 L24,46 L34,54 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M74,44 L84,36 L84,46 L74,54 Z" />
+    <!-- Golden Crown Top -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M46,24 L54,18 L62,24 L58,26 L54,22 L50,26 Z" />
+</vector>
